@@ -39,3 +39,8 @@ I am a student at Utah State University studying computer science
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=seelosjames&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seelosjames&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+<img
+  src="https://github.com/seelosjames/seelosjames/blob/main/images/stat.svg"
+  alt="seelosjames WakaTime Activity"
+/>
