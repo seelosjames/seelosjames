@@ -18,7 +18,7 @@
 
 ### :man_technologist: About Me :
 +
-I am a student at Utah State University studying computer science
+I am a student at Utah State University studying computer science.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-seelosjames-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/seelosjames/)
 
